@@ -1,6 +1,6 @@
 # crypto_app
 
-A new Flutter project.
+Cryptocurrency list app
 
 ## Getting Started
 
